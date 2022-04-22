@@ -1,0 +1,83 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../imagem/bordaFundo.png);
+    background-color: #FFF;
+    background-attachment: fixed;
+    background-repeat: repeat-y;
+    background-position: left;
+    background-size: 35%;
+    font-family: 'Oswald', sans-serif;
+    font-size: 150%;
+
+}
+
+.erro{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.alert{
+    margin-top: 50px;
+}
+
+footer{
+    background-color: #ADF2D4;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0px -3px 5px #bbb;
+    color: #000;
+}
+
+form{
+    text-shadow: 2px 0px 3px #FFF;
+}
+
+.container{
+    margin-bottom: 50px;
+    text-shadow: 2px 0px 3px #FFF;
+}
+
+.login{
+    padding-top: 50px;
+}
+
+.table-responsive{
+    border: 0;
+}
+
+.container-fluid{
+    line-height: 100%;
+    text-align: center;
+    font-size: 85%;
+    margin: 10px;
+}
+
+footer a{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border-color: #000;
+    border-width: 1px;
+    border-style: solid;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.fa-copyright{
+    width: auto;
+    color: #000;
+    margin: 0px;
+    padding-top: 0px !important;
+}
+
+footer .fa-facebook, .fa-instagram, .fa-twitter, .fa-linkedin{
+    width: 28px;
+    height: 28px;
+    color: #000;
+    padding-top: 30%;
+}
+
