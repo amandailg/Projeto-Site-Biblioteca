@@ -11,3 +11,5 @@ A programação foi feita em PHP, utilizando também HTML e CSS.
 Foi criado integralmente por mim e validado pelo professor das disciplinas.
 
 Não é um software completo, mas Beta. Pretendo aprimorá-lo em algum momento.
+
+Sua documentação completa segue no documento PDF.
